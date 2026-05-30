@@ -18,6 +18,6 @@ I build things at the intersection of AI systems and real-world markets. I'm dri
 - [Dracut](https://github.com/dracutdevs/dracut) (Red Hat) — 20+ merged patches to the Linux boot process, shipped in Fedora, SUSE, RHEL
 
 **Stack**
-Python · Java · Bash · TensorFlow · XGBoost · LLM APIs
+Python | Java | ZSH | TensorFlow, NumPy, Pandas | Vercel, Supabase, Railway, Render | Next.js
 
-**Languages:** English · Mandarin · Hungarian
+**Languages:** English | Mandarin | Hungarian
