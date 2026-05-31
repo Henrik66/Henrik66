@@ -6,9 +6,9 @@ I build things at the intersection of AI systems and real-world markets. I'm dri
 
 **Currently**
 - Founder & CTO @ [Loadstone Labs](https://loadstonelabs.com) — water rights intelligence platform for Colorado water attorneys and engineers; building automated valuation models for a ~$1T opaque asset class
-- AI Evaluation Researcher @ Widget Factory — structured evaluation of LLM code review quality for RLHF pipelines
-- Analyst @ Cornell Venture Capital
-- Head of Operations @ Cornell Entrepreneurship Club
+- Problem Design Engineer @ Widget Factory — structured evaluation of LLM code review quality for Reinforcement Learning Human-Feedback (RLHF) pipelines
+- Analyst @ [Cornell Venture Capital](https://www.cornellvc.com/)
+- Head of Operations @ [Cornell Entrepreneurship Club](https://www.cornellec.com/)
 
 **Research**
 - Published a preprint on lexical diversity evaluation across frontier LLMs (Claude, Llama, GPT-4) — https://www.henrik.business/Comparative_Analysis_of_Lexical_Diversity_Across_Large_Language_Models.pdf
