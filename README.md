@@ -15,7 +15,7 @@ I build things at the intersection of AI systems and real-world markets. I'm dri
 - Research Engineer @ BU Questrom: empirical ad-tech privacy research with Prof. Garrett Johnson (Google Privacy Sandbox)
 
 **Open Source**
-- [Dracut](https://github.com/dracutdevs/dracut) (Red Hat) — 20+ merged patches to the Linux boot process, shipped in Fedora, SUSE, RHEL
+- [Dracut]([https://https://github.com/dracut-ng/dracut]) — 20+ merged patches merged patches to the Linux boot process, shipping in Fedora, Debian, Ubuntu, Arch, Fedora, RHEL, SUSE
 
 **Stack**
 Python | Java | ZSH | TensorFlow, NumPy, Pandas | Vercel, Supabase, Railway, Render | Next.js
