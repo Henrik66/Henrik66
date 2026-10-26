@@ -1,14 +1,14 @@
 ## Henrik Gombos
 
-CS + Economics @ Cornell University | he/him
+CS + Business @ Cornell University | he/him
 
 I build things at the intersection of AI systems and real-world markets. I'm driven, dedicated, and ambitious. More of my work at my portfolio! https://henrik.business
 
 **Currently**
 - Founder & CTO @ [Loadstone Labs](https://loadstonelabs.com) — water rights intelligence platform for Colorado water attorneys and engineers; building automated valuation models for a ~$1T opaque asset class
-- Problem Design Engineer @ Widget Factory — structured evaluation of LLM code review quality for Reinforcement Learning Human-Feedback (RLHF) pipelines
+- Problem Design Engineer @ IdlExperts (fka Widget Factory) — structured evaluation of LLM code review quality for Reinforcement Learning Human-Feedback (RLHF) pipelines
 - Analyst @ [Cornell Venture Capital](https://www.cornellvc.com/)
-- Head of Operations @ [Cornell Entrepreneurship Club](https://www.cornellec.com/)
+- Treasurer @ [Cornell Entrepreneurship Club](https://www.cornellec.com/), ex. Head of Operations
 
 **Research**
 - Published a preprint on lexical diversity evaluation across frontier LLMs (Claude, Llama, GPT-4) — https://www.henrik.business/Comparative_Analysis_of_Lexical_Diversity_Across_Large_Language_Models.pdf
